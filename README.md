@@ -7,7 +7,7 @@
 
 A project maintained by Alibaba.
 
-See the [中文文档](https://github.com/FlammulinaBlog/spring-cloud-alibaba/master/README-zh.md) for Chinese readme.
+See the [中文文档](https://github.com/FlammulinaBlog/spring-cloud-alibaba/blob/master/README-zh.md) for Chinese readme.
 
 Spring Cloud Alibaba provides a one-stop solution for distributed application development. It contains all the components required to develop distributed applications, making it easy for you to develop your applications using Spring Cloud.
 
